@@ -19,6 +19,7 @@ enquanto a primeira busca prever **quem precisará de UTI**, a segunda busca ent
 📁 projeto_integrador_2tri_estatistica2/
 - sirio_dados.xlsx # Base de dados original (Hospital Sírio-Libanês – Kaggle)
 - dicionario_variaveis.xlsx # Dicionário de dados com descrição e relevância das variáveis
+- apresentacao_inicial # Apresentação do projeto para a Disciplina de Estatística e Aprendizagem de Máquina II
 - analise_exploratoria.R # Scripts de exploração inicial e gráficos
 - modelagem_supervisionada.R # Modelos: Regressão Logística, Random Forest e XGBoost
 - modelagem_nao_supervisionada.R # Agrupamentos com K-Means e PCA
